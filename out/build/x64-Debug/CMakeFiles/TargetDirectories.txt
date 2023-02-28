@@ -1,3 +1,0 @@
-C:/Users/Svyatoslav/Desktop/C++/CMakeStudy/cmake_1_implementantion_accounting_sheet/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Svyatoslav/Desktop/C++/CMakeStudy/cmake_1_implementantion_accounting_sheet/out/build/x64-Debug/CMakeFiles/1_implementantion_accounting_sheet.dir
-C:/Users/Svyatoslav/Desktop/C++/CMakeStudy/cmake_1_implementantion_accounting_sheet/out/build/x64-Debug/CMakeFiles/edit_cache.dir
